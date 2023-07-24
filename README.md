@@ -133,7 +133,7 @@ ALTER TABLE order_items_dataset ADD FOREIGN KEY (seller_id) REFERENCES sellers_d
 
 **Hasil ERD :** <br>
 <p align="center">
-  <kbd><img src="asset/gambar_1_ERD.png" width=800px> </kbd> <br>
+  <kbd><img src="gambar_1_ERD.png" width=800px> </kbd> <br>
   Gambar 1. Entity Relationship Diagram
 </p>
 <br>
@@ -297,12 +297,12 @@ ORDER BY 1
 
 <p align="center">
 Tabel 1. Hasil Analisis Pertumbuhan Aktivitas Pelanggan Tahunan  <br>
-  <kbd><img src="asset/activity.png" width=800px> </kbd> <br>
+  <kbd><img src="activity.png" width=800px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
-  <kbd><img src="asset/gambar_2_mau_x_newcust.png" width=600px> </kbd> <br>
+  <kbd><img src="gambar_2_mau_x_newcust.png" width=600px> </kbd> <br>
   Gambar 2. Grafik Rata-rata MAU dan Pelanggan Baru
 </p>
 
@@ -311,7 +311,7 @@ Secara keseluruhan perusahaan mengalami peningkakatan Monthly Active User serta 
 <br>
 
 <p align="center">
-  <kbd><img src="asset/gambar_3_repeat order.png" width=600px> </kbd> <br>
+  <kbd><img src="gambar_3_repeat order.png" width=600px> </kbd> <br>
   Gambar 3. Grafik Jumlah Pelanggan yang Melakukan Repeat Order
 </p>
 
@@ -321,7 +321,7 @@ Peningkatan yang signifikan juga terjadi pada jumlah pelanggan yang melakukan re
 
 
 <p align="center">
-  <kbd><img src="asset/gambar_4_freq_order.png" width=600px> </kbd> <br>
+  <kbd><img src="gambar_4_freq_order.png" width=600px> </kbd> <br>
   Gambar 4. Grafik Rata-rata Frekuensi Order Pelanggan
 </p>
 
@@ -432,12 +432,12 @@ GROUP BY 1, 2, 3, 4, 5, 6, 7;
 
 <p align="center">
   Tabel 2. Hasil Analisis Total Kategori Produk Tahunan <br>
-  <kbd><img src="asset/produk.png" width=1000px> </kbd> <br>
+  <kbd><img src="produk.png" width=1000px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
-  <kbd><img src="asset/gambar_5_total_revenue.png" width=600px> </kbd> <br>
+  <kbd><img src="gambar_5_total_revenue.png" width=600px> </kbd> <br>
   Gambar 5. Grafik Total Revenue Pertahun
 </p>
 
@@ -446,7 +446,7 @@ Secara keseluruhan revenue perusahaan meningkat setiap tahun. <br>
 <br>
 
 <p align="center">
-  <kbd><img src="asset/gambar_6_top.png" width=600px> </kbd> <br>
+  <kbd><img src="gambar_6_top.png" width=600px> </kbd> <br>
   Gambar 6. Grafik Total Revenue Top Produk Pertahun
 </p>
 
@@ -455,7 +455,7 @@ Revenue yang dihasilkan dari top produk juga meningkat untuk setiap tahunnya. Se
 <br>
 
 <p align="center">
-  <kbd><img src="asset/gambar_7_cenceled.png" width=600px> </kbd> <br>
+  <kbd><img src="gambar_7_cenceled.png" width=600px> </kbd> <br>
   Gambar 7. Grafik Total Revenue Top Produk Pertahun
 </p>
 
@@ -499,12 +499,12 @@ ORDER BY 2 DESC;
 
 <p align="center">
   Tabel 3. Hasil Analisis Tipe Pembayaran yang Digunakan Pelanggan <br>
-  <kbd><img src="asset/payment.png" width=600px> </kbd> <br>
+  <kbd><img src=payment.png" width=600px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
-  <kbd><img src="asset/gambar_8_tipe_pembayaran.png" width=600px> </kbd> <br>
+  <kbd><img src="gambar_8_tipe_pembayaran.png" width=600px> </kbd> <br>
   Gambar 8. Grafik Tipe Pembayaran yang Digunakan Pelanggan Pertahun
 </p>
 
